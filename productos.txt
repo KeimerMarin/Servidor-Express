@@ -1,0 +1,26 @@
+[
+ {
+   "title": "productoPrueba-1",
+   "price": 9990,
+   "thumbnail": "https://www.zoominformatica.com/img-datos/AHD301A_0.jpg",
+   "id": 1
+ },
+ {
+   "title": "productoPrueba-2",
+   "price": 8990,
+   "thumbnail": "https://www.cctvcamerapros.com/v/vspfiles/photos/IP-B2-2.jpg?v-cache=1627219410",
+   "id": 2
+ },
+ {
+   "title": "productoPrueba-3",
+   "price": 7990,
+   "thumbnail": "https://www.cctvcamerapros.com/v/vspfiles/photos/PTZ-9480X10-2.jpg?v-cache=1627219410",
+   "id": 3
+ },
+  {
+   "title": "productoPrueba-4",
+   "price": 6990,
+   "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2020/12/CY/JC/CL/5217642/cctv-ip-camera-500x500.jpg",
+   "id": 4
+ }
+]
